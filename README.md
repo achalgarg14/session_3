@@ -119,6 +119,8 @@ Learning rate 2.0:
 
 It can be seen that for this dataset, as we are increasing learning rate loss is getting reduced rapidly. But if we keep on increasing it, loss might not converge at all!
 
+Original [Google Sheet Link](https://docs.google.com/spreadsheets/d/1c6reSB9WeFN9p9b67E--qB4dGXEzBNdCNYK5MyVNtKo/edit?usp=sharing)
+
 ## Part-2 - Applying Multiple Concepts to achieve higher accuracy in small steps
 
 Problem statement:
